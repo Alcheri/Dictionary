@@ -1,8 +1,15 @@
 <h1 align="center"> Dictionary </h1>
 
 <p align="center">
+  <a href="https://github.com/Alcheri/Dictionary/actions/workflows/tests.yml">
+    <img src="https://github.com/Alcheri/Dictionary/actions/workflows/tests.yml/badge.svg" alt="Tests">
+  </a>
+  <a href="https://github.com/Alcheri/Dictionary/actions/workflows/lint.yml">
+    <img src="https://github.com/Alcheri/Dictionary/actions/workflows/lint.yml/badge.svg" alt="Lint">
+  </a>
+  <img src="https://img.shields.io/badge/coverage-95%25-brightgreen" alt="Coverage">
   <img src="https://img.shields.io/badge/python-3.9%2B-blue.svg" alt="Python">
-  <img src="https://img.shields.io/badge/code style-black-000000.svg" alt="Code style: black">
+  <img src="https://img.shields.io/badge/code%20style-black-black" alt="Code style: black">
   <img src="https://img.shields.io/badge/limnoria-compatible-brightgreen.svg" alt="Limnoria">
   <img src="https://img.shields.io/badge/License-BSD_3--Clause-blue.svg" alt="License">
 </p>
