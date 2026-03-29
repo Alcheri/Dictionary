@@ -7,7 +7,7 @@
   <a href="https://github.com/Alcheri/Dictionary/actions/workflows/lint.yml">
     <img src="https://github.com/Alcheri/Dictionary/actions/workflows/lint.yml/badge.svg" alt="Lint">
   </a>
-  <img src="https://img.shields.io/badge/coverage-95%25-brightgreen" alt="Coverage">
+  <img src="https://img.shields.io/badge/coverage-${{ steps.coverage.outputs.coverage }}%25-brightgreen" alt="Coverage">
   <img src="https://img.shields.io/badge/python-3.9%2B-blue.svg" alt="Python">
   <img src="https://img.shields.io/badge/code%20style-black-black" alt="Code style: black">
   <img src="https://img.shields.io/badge/limnoria-compatible-brightgreen.svg" alt="Limnoria">
